@@ -21,6 +21,9 @@ I am Arsh Jain, an aspiring Software Developer with a strong interest in Backend
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![snake gif](https://github.com/Arshx19/Arshx19/blob/output/github-snake-dark.svg)
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
